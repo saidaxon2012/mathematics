@@ -1,6 +1,6 @@
 # mathematics
 
-[HAVO](/havo.py)
+[Havo harorati va hafta kuniga qarab qaror qiladigan dastur](/havo.py)
 
 [KASR](/kasr.py)
 
