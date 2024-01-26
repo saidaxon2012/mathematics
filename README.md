@@ -1,13 +1,3 @@
-# mathematics
+## Mathematics
 
-[Havo harorati va hafta kuniga qarab qaror qiladigan dastur](/havo.py)
-
-[KASR](/kasr.py)
-
-[KVADRAT](/kvadrat.py)
-
-[SHAKL](/shakl.py)
-
-[TEATR](/teatr.py)
-
-[YOSH](/yosh.py)
+[Bu sahifada turli misol va masalalarni yechamiz. Bu sahifa matematika fani uchun juda foydali]
